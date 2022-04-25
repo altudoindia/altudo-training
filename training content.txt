@@ -1,0 +1,74 @@
+Today we have coverd
+
+function scope
+function call 
+variable let var and const
+function argument and parameters
+0 null undefine not defined
+
+
+Tomorrow we will learn 
+
+object in detail
+oops
+array 
+ready made method - array object
+
+access for git repo
+4 event loop
+5 promise
+6 async function
+try catch
+call back function
+
+hoisting (function and var ) let and const will not include in hoisting
+scope
+anonimouse function ()
+DOM	
+json
+ fetch -axios
+rest api
+rest api type (get post put delete)
+post man tool for test our api
+
+typescript
+ES6 featue :- 
+	let const
+	arrow function
+	js oops conjs class , incapsulation polymorphism inheritance 
+	js module concept
+	js class concept
+	require(home.js)
+	destructuring
+	template litarals tiltiled code
+	rest and array spread ...arr
+	map set waeakmap
+what is django and flask
+
+
+diff between array object and json formate
+
+React start
+
+virtual dom
+type of component functional compoent and class component
+spur keyword in react
+
+
+4 event loop
+5 promise
+6 async function
+try catch
+call back function
+
+https://github.com/altudoindia/altudo-training.git
+https://github.com/altudoindia/altudo-training.git
+
+
+
+
+
+
+
+
+
