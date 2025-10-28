@@ -1,0 +1,44 @@
+User-agent: *
+Disallow: /bin/
+Disallow: /tmp_Net4/
+Disallow: /App_Data/
+Disallow: /aspnet_client/
+Disallow: /App_Browsers/
+Disallow: /temp/
+Disallow: /xsl/
+Disallow: /Error%20Pages/
+Disallow: /Error*Pages/
+Disallow: /sitecore/
+Disallow: /*?isPdf=true
+Disallow: /*?IsPdf=true
+Disallow: /Sublayouts/
+Disallow: /*.aspx
+Disallow: /*.html
+Disallow: /*.php
+Disallow: /rss-feeds/
+Disallow: /insights-archives/
+Disallow: /pdf-pages/
+Disallow: /vcard/
+Disallow: /*?pdf=1
+Sitemap:http://www.dentons.com/sitemap.xml
+Sitemap:https://www.dentons.com/dentons_website_sitemap.xml
+Sitemap:https://dentons.rodyk.com/dentons_rodyk_sitemap.xml
+Sitemap:https://dentons.lopez-velarde.com/dentons_lvhs_sitemap.xml
+Sitemap:https://dentons.cardenas-cardenas.com/dentons_cardenas_sitemap.xml
+Sitemap:https://www.dentonsmunoz.com/dentons_munoz_sitemap.xml
+Sitemap:https://www.dentons.co.mz/dentons_dentonsfla_sitemap.xml
+Sitemap:https://www.vpbg.com.br/dentons_vpbg_sitemap.xml
+Sitemap:https://dentons.hprplawyers.com/dentons_hprp_sitemap.xml
+Sitemap:https://www.zain.com.my/dentons_zainandco_sitemap.xml
+Sitemap:https://www.dentonshhm.com/dentons_hhm_sitemap.xml
+Sitemap:https://www.dentons.co.nz/dentons_black_sitemap.xml
+Sitemap:https://www.dentonslee.com/dentons_lee_sitemap.xml
+Sitemap:https://www.dentonsacaslaw.com/dentons_DentonsACAS_sitemap.xml
+Sitemap:https://hongkong.dentons.com/dentons_hongkong_sitemap.xml
+
+User-agent: baiduspider
+crawl-delay: 5
+User-agent: SiteimproveBot
+Crawl-delay: 5
+User-agent: SiteimproveBot-Crawler
+Crawl-delay: 5
